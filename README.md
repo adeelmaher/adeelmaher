@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm Adeel 👋  <br>I'm passionate about AI, Machine Learning, and Computer Vision. <br>I enjoy building practical projects, learning step by step, and turning ideas into real working systems.<br><br>- 🔭 I’m currently working on AI and Computer Vision projects. <br>- 👯 I’m looking to collaborate on AI, ML, and automation projects.<br>- 🌱 I’m currently learning Deep Learning, OpenCV, and YOLO.<br>- 💬 Ask me about Python, Computer Vision, and beginner-friendly AI projects.<br>- ⚡ Fun fact: I enjoy learning by building real projects.
+<br>Hi, I'm Adeel 👋  <br>I'm passionate about AI, Machine Learning, and Computer Vision. <br>I enjoy building practical projects, learning step by step, and turning ideas into real working systems.<br><br>- 🔭 I’m currently working on AI and Computer Vision projects. <br>- 👯 I’m looking to collaborate on AI, ML, and automation projects.<br>- 🌱 I’m currently learning Deep Learning, OpenCV, and YOLO.<br>- 💬 Ask me about Python, Computer Vision, and beginner-friendly AI projects.<br>- ⚡ Fun fact: I enjoy learning by building real projects.
 
 
 ## 🌐 Socials:
